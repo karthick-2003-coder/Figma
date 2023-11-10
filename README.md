@@ -379,6 +379,7 @@ background: url(logo.png);
 ```
 
 ## OUTPUT:
+![Alt text](figma.png)
 ![Alt text](OUTPUT-1.png)
 ![Alt text](OUTPUT-2.png)
 ![Alt text](OUTPUT-3.png)
